@@ -12,4 +12,8 @@ header {
 }
 
 section{
-    brackgraud-color: rgb(117,112,122)}
+    brackgraud-color: rgb(117,112,122)
+    padding-top: 80px;
+    padding-boton: 80px;
+    display:flex;
+    justify-content: center;
